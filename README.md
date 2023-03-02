@@ -14,7 +14,6 @@ Prerequisite: Basic concepts of HTML like tags, attributes ,forms, tables, rows,
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/Vimalraj1221/Simple-Portfolio)
-- Live Site URL: [Netlify Hosted](https://simple-Portfolio.netlify.app/)
 
 ### Built with
 
@@ -24,7 +23,7 @@ Prerequisite: Basic concepts of HTML like tags, attributes ,forms, tables, rows,
 ## Author
 
 - Github -[@Vimalraj1221](https://www.github.com/Vimalraj1221)
-- Twitter - [@Vimalraj1221](https://www.twitter.com/Vimalraj1221)
+- Twitter - [@Vimalraj1221](https://twitter.com/VimalRaj_1221)
 - Instagram -[@Vimalraj1221](https://www.instagram.com/vimalraj_1221/)
 
 ## Supported Browsers
