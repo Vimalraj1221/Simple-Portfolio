@@ -14,6 +14,7 @@ Prerequisite: Basic concepts of HTML like tags, attributes ,forms, tables, rows,
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/Vimalraj1221/Simple-Portfolio)
+- Live Site URL: [Netlify Hosted](https://me-portfolio-1.netlify.app)
 
 ### Built with
 
